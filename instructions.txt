@@ -1,0 +1,39 @@
+Flight Log API Project
+
+This project should connect Spring Boot  with a database to use persistent data about flights. Below are user stories that should be met for a minimum viable product. 
+
+The core focus is on utilizing Spring Boot and databases to build a back end API.
+
+ Stretch goals are to add some more user stories of your own and also to add a React front end that utilizes the back end API.
+
+Submit the link to your repo using the submission form
+
+USER STORIES
+
+1. As an administrator, I want to be able to input flights that can then be picked up by pilots so that they are in the system and other users can see who the pilot is, what the date and time of the flight are, and from/to where the flight is going.
+
+2. As an administrator, I want to be able to delete a pilot who no longer works for this company so that they do not accidentally get randomly assigned to a future flight.
+
+3. As an administrator, I want to be able to add a new pilot who was recently hired so that they can be added to future flights.
+
+4. As an administrator, I want to be able to delete a flight that is no longer being taken so that no pilots think they have to fly when, in fact, they do not. 
+
+5. As an administrator, I want to be able to update who the pilot on a flight is going to be so that all information is up-to-date.
+
+6. As a user (pilot), I want to be able to see all of the flights that I am the pilot of so that I can arrange my schedule accordingly. 
+
+7. As a user (pilot), I want to be able to add myself as the pilot for a flight so that it’s available to view on my calendar.
+
+8. As a user (pilot), I want to be able to update the date and time of a flight in case there is a change to the calendar. 
+
+9. As a user (pilot), I want to be able to remove myself from a flight if I am no longer the pilot so that someone else can pick it up.
+
+10. As a user (pilot), I want to be able to see all flights being taken on a specific day so that I have a good idea what’s going on that day. 
+
+11. As a user (pilot), I want to be able to see all flights being taken by specific pilots so that I can see where my colleagues are flying to. 
+
+12. As a user (pilot), I want to be able to add notes about a flight I recently took to document interesting information for future pilots on the same path. 
+
+13. As an administrator, I want to be able to randomly assign flights to pilots that are available that have not yet been given a pilot so that someone flies that plane!
+
+14. As an administrator, I want to be able to update which plane a flight is assigned to so that when changes arise I am able to accurately update the system.
